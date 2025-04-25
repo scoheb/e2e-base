@@ -5,3 +5,4 @@ LABEL io.k8s.description="This tool..."
 LABEL io.k8s.display-name="comp2"
 LABEL io.openshift.tags="comp2"
 LABEL summary="A comp2 container"
+
