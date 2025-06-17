@@ -7,4 +7,4 @@ LABEL io.openshift.tags="comp2"
 LABEL summary="A comp2 container"
 
 RUN mkdir -p /releases
-ADD binaries/* /releases/
+ADD main_86.* /releases/
